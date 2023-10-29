@@ -86,7 +86,7 @@ addCart.addEventListener('click',function () {
                productList.push(item)
            }
            item.price = item.Summ
-           item.kcall = item.kcall
+           item.kcall = item.Kcall
       
     }
     for (let i = 0; i < productList.length; i++) {
